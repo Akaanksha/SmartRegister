@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (4.6.0)
+  - Auk (8.0.2):
+    - moa
+  - LGSideMenuController (2.1.1)
+  - moa (9.0.2)
+  - SwiftyJSON (4.0.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - Auk
+  - LGSideMenuController
+  - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: f41a599bd63041760b26d393ec1069d9d7b917f4
+  Auk: 82be62a2cf650437fe745c81b12ac2440a0f682c
+  LGSideMenuController: ae40c80983ab8b8801c7cef0a6804d43aaa72d45
+  moa: b73dc5e0efa1fad00711c4608e41b197f4d15b12
+  SwiftyJSON: 070dabdcb1beb81b247c65ffa3a79dbbfb3b48aa
+
+PODFILE CHECKSUM: f2971eec9d6f8082f842dec55072298e1a22e694
+
+COCOAPODS: 1.2.0
